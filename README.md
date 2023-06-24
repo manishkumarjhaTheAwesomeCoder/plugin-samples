@@ -9,7 +9,7 @@ developing plugins, check out the available [resources][help].
 
 These plugins are written using [TypeScript][ts] to take advantage of Figma's typed plugin API. Before installing these samples as development plugins, you'll need to compile the code using the TypeScript compiler. Typescript can also watch your code for changes as you're developing, making it easy to test new changes to your code in Figma.
 
-To install TypeScript, first [install Node.js][node]. Then:
+To install TypeScript, first [install Node.js][node]. Then:-
 
     $ npm install -g typescript
 
